@@ -1,1 +1,3 @@
-# test_practice_odin
+# Test Practice - Odin Project
+
+Study about jest and TDD.
